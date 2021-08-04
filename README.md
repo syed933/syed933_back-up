@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @syed933
+- 👋 Hi, I’m Syed
 - 👀 I’m interested in startups, building cool new projects, web development, software engineering =)  
 - 🌱 I’m currently learning Full Stack Development with MERN, and 3js
 - 💞️ I’m looking to collaborate on really cool open source projects that help peopel 
